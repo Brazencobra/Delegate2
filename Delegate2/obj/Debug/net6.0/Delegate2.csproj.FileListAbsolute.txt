@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.exe
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.deps.json
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.dll
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.pdb
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.dll
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\refint\Delegate2.dll
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.pdb
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\Delegate2\Delegate2\obj\Debug\net6.0\ref\Delegate2.dll
